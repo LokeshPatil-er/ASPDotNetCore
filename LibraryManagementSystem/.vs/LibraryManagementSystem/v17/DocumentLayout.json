@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ASP.NET Core\\LibraryManagementSystem\\",
+  "WorkspaceRootPath": "D:\\ASPDotNetCore\\LibraryManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D32946C3-CC19-4B14-B36A-2318B515D32E}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\asp.net core\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D32946C3-CC19-4B14-B36A-2318B515D32E}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\aspdotnetcore\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D32946C3-CC19-4B14-B36A-2318B515D32E}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D32946C3-CC19-4B14-B36A-2318B515D32E}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\asp.net core\\librarymanagementsystem\\librarymanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D32946C3-CC19-4B14-B36A-2318B515D32E}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\aspdotnetcore\\librarymanagementsystem\\librarymanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D32946C3-CC19-4B14-B36A-2318B515D32E}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\ASPDotNetCore\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\ASP.NET Core\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASPDotNetCore\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\HomeController.cs",
               "RelativeToolTip": "LibraryManagementSystem\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T06:32:32.117Z",
               "EditorCaption": ""
@@ -61,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "DocumentMoniker": "D:\\ASPDotNetCore\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
-              "ToolTip": "D:\\ASP.NET Core\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "ToolTip": "D:\\ASPDotNetCore\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
               "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
